@@ -1,0 +1,1 @@
+export default function NotFound() { return <main id="main" className="not-found wrap"><p className="section-label">Page not found</p><h1>Let’s get you back in sync.</h1><p>The page you’re looking for isn’t here.</p><a className="button" href="/">Back to home</a></main>; }
