@@ -4,13 +4,6 @@ A corporate website for smart home automation, security, network engineering and
 
 **Live website:** [ss-ng.com](https://ss-ng.com/)
 
-## Development
-
-Use Node 22.13 or newer. Run `npm install`, `npm run dev`, `npm run check` and `npm run build`. Start the production server with `npm start`.
-
-## Deploy
-
-Import the repository into Vercel as a Next.js project. No private platform configuration or application secrets are required by the front end.
 
 ## Content and enquiries
 
